@@ -16,3 +16,12 @@ header {
     text-decoration: none;
     border-radius: 5px;
 }
+.features {
+    padding: 30px;
+    background: white;
+}
+.feature {
+    margin: 20px;
+    display: inline-block;
+    width: 30%;
+}
